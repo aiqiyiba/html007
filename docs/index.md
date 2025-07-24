@@ -62,7 +62,7 @@ AI分镜助手：辅助创作者提升效率
 
 
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
- <a href="http://huluwa.%6b%35%39%34%2e%63%6f%6d/huluwa?f=18" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉&#9829;&#25026;&#33394;&#97;&#118;&#9829;&#35266;&#30475;&#20837;&#21475;👈</a></br>
+ <a href="http://huluwa.%6b%35%39%34%2e%63%6f%6d/huluwa?f=18" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉&#9829;&#33446;&#23043;&#35270;&#39057;&#9829;&#35266;&#30475;&#20837;&#21475;👈</a></br>
 </div>
 
 Check out the [About](about.md) page to learn more about our huluwa.com and values.
